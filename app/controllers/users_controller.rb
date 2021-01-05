@@ -6,5 +6,3 @@ class UsersController < ApplicationController
         @prototype = @user.prototypes
     end
 end
-        # @user_name = current_user.name
-        # @prototype = current_user.prototypes
